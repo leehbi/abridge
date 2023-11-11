@@ -9,7 +9,7 @@ tags = ["Features","Shortcodes","Video"]
 [extra]
 keywords = "Video, Shortcodes, Embed, Embedded, Vimeo"
 toc = true
-series = "Features"
+ 
 +++
 
 Zola has many shortcodes, and new are easily added, this example shows vimeo.

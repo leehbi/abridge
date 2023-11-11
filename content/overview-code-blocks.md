@@ -9,7 +9,7 @@ tags = ["Features","Markdown"]
 [extra]
 keywords = "Code, Code Blocks, Syntax, Syntax Highlighting, Theme"
 toc = true
-series = "Features"
+ 
 +++
 
 This article shows various Code Blocks allowing to easily compare sublime themes.
